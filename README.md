@@ -3,5 +3,31 @@
 
 <img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1.gif"/>
 
-<img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://camo.githubusercontent.com/33736ad963b454c21b8bc757d9d9b301a32992aa0d16d4b8ebbd8b8f47fa63fa/687474703a2f2f63646e2e6c6f776769662e636f6d2f736d616c6c2f656664376564623639396163303138612d2e676966">
+<h1 align="center">Hi 👋, I'm Sooraj Kumar Luhana</h1>
+<h3 align="center">Electrical Engineer| Flutter Developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soorajkumarluhana&label=Profile%20views&color=0e75b6&style=flat" alt="soorajkumarluhana" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soorajkumarluhana" alt="soorajkumarluhana" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/soorajkluhana" target="blank"><img src="https://img.shields.io/twitter/follow/soorajkluhana?logo=twitter&style=for-the-badge" alt="soorajkluhana" /></a> </p>
+
+- 📫 How to reach me **soorajkumarluhana@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/soorajkluhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soorajkluhana" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/soorajkumarluhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soorajkumarluhana" height="30" width="40" /></a>
+<a href="https://fb.com/soorajkumarluhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soorajkumarluhana" height="30" width="40" /></a>
+<a href="https://instagram.com/soorajkumarluhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soorajkumarluhana" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soorajkumarluhana&show_icons=true&locale=en&layout=compact" alt="soorajkumarluhana" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soorajkumarluhana&show_icons=true&locale=en" alt="soorajkumarluhana" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soorajkumarluhana&" alt="soorajkumarluhana" /></p>
 
