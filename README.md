@@ -1,7 +1,7 @@
 
 <img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1.gif"/>
 <h1 align="center">Hi 👋, I'm Sooraj Kumar Luhana</h1>
-<h3 align="center">Electrical Engineer | Mobile App Developer</h3>
+<h3 align="center">Electrical Engineer | Flutter Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/soorajkluhana" target="blank"><img src="https://img.shields.io/twitter/follow/soorajkluhana?logo=twitter&style=for-the-badge" alt="soorajkluhana" /></a> </p>
 
