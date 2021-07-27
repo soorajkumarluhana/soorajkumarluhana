@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **soorajkumarluhana@gmail.com**
 
-- 📄 Check out my resume [https://drive.google.com/file/d/1SlYNiUYeE0dIr3j4fP1RD47SitmRDar6/view?usp=sharing](https://drive.google.com/file/d/1JVQ1goz52khhRIVXoCD6K0yi6GPoJRIn/view?usp=sharing)
+- 📄 Check out my resume [https://drive.google.com/file/d/1SlYNiUYeE0dIr3j4fP1RD47SitmRDar6/view?usp=sharing](https://drive.google.com/file/d/1cPq4gdxjfg8GM1zv2h6lncxIn8dX4J55/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
