@@ -7,7 +7,7 @@
 <a href="https://twitter.com/soorajkluhana" target="blank"><img src="https://img.shields.io/twitter/follow/soorajkluhana?logo=twitter&style=for-the-badge" alt="soorajkluhana" </a> 
 </p>
 
-- 📫 How to reach me **soorajkumarluhana@gmail.com**
+ - 📫 How to reach me. **soorajkumarluhana@gmail.com**
 
 - 📄 Check out my resume [https://drive.google.com/file/d/1SlYNiUYeE0dIr3j4fP1RD47SitmRDar6/view?usp=sharing](https://drive.google.com/file/d/1cPq4gdxjfg8GM1zv2h6lncxIn8dX4J55/view?usp=sharing)
 
