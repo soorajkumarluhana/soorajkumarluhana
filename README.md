@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Sooraj Kumar Luhana</h1>
 <h3 align="center">Electrical Engineer | Flutter Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/soorajkluhana" target="blank"><img src="https://img.shields.io/twitter/follow/soorajkluhana?logo=twitter&style=for-the-badge" alt="soorajkluhana" /></a> </p>
 
 - 📫 How to reach me - **soorajkumarluhana@gmail.com**
 
