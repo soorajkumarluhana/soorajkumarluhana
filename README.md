@@ -6,7 +6,7 @@
 
 - 📫 Email Address - **soorajkumarluhana@gmail.com**
 
-- 📄 Resume - [https://drive.google.com/file/d/1SlYNiUYeE0dIr3j4fP1RD47SitmRDar6/view?usp=sharing](https://drive.google.com/file/d/1cPq4gdxjfg8GM1zv2h6lncxIn8dX4J55/view?usp=sharing)
+- 📄 Resume - [https://drive.google.com/file/d/1SlYNiUYeE0dIr3j4fP1RD47SitmRDar6/view?usp=sharing](https://drive.google.com/file/d/1151QIAZ4pLHGo-nRkGHB1BNVoWTjj4Jz/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
