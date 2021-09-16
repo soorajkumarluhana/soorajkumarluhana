@@ -4,13 +4,13 @@
 <h3 align="center">Flutter Developer</h3>
 
 
-- 📫 Email Address - **soorajkumarluhana@gmail.com** <br>
-PortFolio : <a href="https://soorajkumarluhana.github.io/PortFolio/">soorajkumarluhana.github.io/PortFolio</a>
+- 📫 Email Address - **soorajkumarluhana@gmail.com** <br> <br>
+- PortFolio : <a href="https://soorajkumarluhana.github.io/PortFolio/" target = "_blank">soorajkumarluhana.github.io/PortFolio</a>
 
 
 <p align="left">
-<a href="https://linkedin.com/in/soorajkumarluhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soorajkumarluhana" height="30" width="40" /></a> 
- <a href="https://twitter.com/soorajkluhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soorajkluhana" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/soorajkumarluhana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soorajkumarluhana" height="30" width="40" /></a> 
+ <a href="https://twitter.com/soorajkluhana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soorajkluhana" height="30" width="40" /></a>
 </p>
 
 
