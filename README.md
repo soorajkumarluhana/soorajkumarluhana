@@ -4,7 +4,7 @@
 <h3 align="center">Flutter Developer</h3>
 
 
-- 📫 Email Address - **soorajkumarluhana@gmail.com**
+- 📫 Email Address - **soorajkumarluhana@gmail.com** <br>
 PortFolio : <a href="https://soorajkumarluhana.github.io/PortFolio/">soorajkumarluhana.github.io/PortFolio</a>
 
 
