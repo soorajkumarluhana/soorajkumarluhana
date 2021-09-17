@@ -5,7 +5,7 @@
 
 
 - 📫 Email Address - **soorajkumarluhana@gmail.com** <br> <br>
-- PortFolio : <a href="https://soorajkumarluhana.github.io/PortFolio/" target = "_blank">soorajkumarluhana.github.io/PortFolio</a>
+- Portfolio : <a href="https://soorajkumarluhana.github.io/Portfolio/" target = "_blank">soorajkumarluhana</a>
 
 
 <p align="left">
