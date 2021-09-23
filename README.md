@@ -7,6 +7,13 @@
 - 📫 Email Address - **soorajkumarluhana@gmail.com** <br> <br>
 - Portfolio : <a href="https://soorajkumarluhana.github.io/Portfolio/" target = "_blank">SoorajKumarLuhana</a>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/soorajkumarluhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soorajkumarluhana" height="30" width="40" /></a>
+<a href="https://fb.com/soorajkumarluhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soorajkumarluhana" height="30" width="40" /></a>  
+<a href="https://twitter.com/soorajkluhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soorajkluhana" height="30" width="40" /></a>
+</p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soorajkumarluhana&show_icons=true&locale=en&layout=compact" alt="soorajkumarluhana" /></p>
