@@ -1,7 +1,7 @@
 
 <img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1.gif"/>
 <h1 align="center">Hi 👋, I'm Sooraj Kumar Luhana</h1>
-<h3 align="center">Flutter Developer</h3>
+<h3 align="center">Electical Engineer | Flutter Developer</h3>
 
 
 - 📫 Email Address - **soorajkumarluhana@gmail.com** <br> <br>
