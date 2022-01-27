@@ -1,7 +1,7 @@
 
 <img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1.gif"/> <br> <br>
 
-<i class="fa fa-snapchat" style="font-size:48px;color:yellow"></i>
+<i class="fa fa-snapchat" style="font-size:48px;color:yellow">Snapchat</i>
 
 <h3 align="left">Social Links</h3>
 <p align="left"> 
