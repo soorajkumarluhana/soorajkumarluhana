@@ -1,7 +1,7 @@
 
 <img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1.gif"/> <br> <br>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrandlogos.net%2Fsnapchat-logo-vector-72412.html&psig=AOvVaw2geTpuvLE7RxcmyZjAMGu-&ust=1643383868445000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjz6Y-g0vUCFQAAAAAdAAAAABAJ"/>
+<img src="https://seeklogo.com/images/S/snapchat-logo-F20CDB1199-seeklogo.com.png"/>
 
 <h3 align="left">Social Links</h3>
 <p align="left"> 
