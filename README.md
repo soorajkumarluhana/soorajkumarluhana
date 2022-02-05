@@ -1,7 +1,7 @@
 
 <img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1.gif"/><br><br>
 
-<img src="https://play-lh.googleusercontent.com/KxeSAjPTKliCErbivNiXrd6cTwfbqUJcbSRPe_IBVK_YmwckfMRS1VIHz-5cgT09yMo" alt="SnapChat Image" width="35" height="35"> <h4>:SoorajKumarL<h4/>
+<img src="https://play-lh.googleusercontent.com/KxeSAjPTKliCErbivNiXrd6cTwfbqUJcbSRPe_IBVK_YmwckfMRS1VIHz-5cgT09yMo" alt="SnapChat Image" width="35" height="35"> <h4> : SoorajKumarL<h4/>
 
 
 <h3 align="left">Social Links</h3>
