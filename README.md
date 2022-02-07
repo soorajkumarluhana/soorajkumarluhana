@@ -4,11 +4,11 @@
 
 <h3 align="left">Social Links</h3>
 <p align="left"> 
-<a href="https://linkedin.com/in/soorajkumarluhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soorajkumarluhana" height="30" width="40" /></a>
-<a href="https://fb.com/soorajkumarluhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soorajkumarluhana" height="30" width="40" /></a>
-<a href="https://twitter.com/soorajkluhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soorajkluhana" height="30" width="40" /></a>
-<a href="https://instagram.com/soorajkumarluhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soorajkumarluhana" height="30" width="40" /></a>
-<a href = "https://www.snapchat.com/add/soorajkumarl"> <img src="https://play-lh.googleusercontent.com/KxeSAjPTKliCErbivNiXrd6cTwfbqUJcbSRPe_IBVK_YmwckfMRS1VIHz-5cgT09yMo" alt="Soorajkumarl" width="35" height="35"></a> 
+<a href="https://linkedin.com/in/soorajkumarluhana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soorajkumarluhana" height="30" width="40" /></a>
+<a href="https://fb.com/soorajkumarluhana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soorajkumarluhana" height="30" width="40" /></a>
+<a href="https://twitter.com/soorajkluhana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soorajkluhana" height="30" width="40" /></a>
+<a href="https://instagram.com/soorajkumarluhana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soorajkumarluhana" height="30" width="40" /></a>
+<a href = "https://www.snapchat.com/add/soorajkumarl" target= "_blank"> <img src="https://play-lh.googleusercontent.com/KxeSAjPTKliCErbivNiXrd6cTwfbqUJcbSRPe_IBVK_YmwckfMRS1VIHz-5cgT09yMo" alt="Soorajkumarl" width="35" height="35"></a> 
 </p>
 
  
