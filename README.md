@@ -8,7 +8,7 @@
 <a href="https://fb.com/soorajkumarluhana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soorajkumarluhana" height="30" width="40" /></a>
 <a href="https://twitter.com/soorajkluhana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soorajkluhana" height="30" width="40" /></a>
 <a href="https://instagram.com/soorajkumarluhana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soorajkumarluhana" height="30" width="40" /></a>
- <a href = "https://www.snapchat.com/add/soorajkumarl"> <img src="https://play-lh.googleusercontent.com/KxeSAjPTKliCErbivNiXrd6cTwfbqUJcbSRPe_IBVK_YmwckfMRS1VIHz-5cgT09yMo" alt="SnapChat" width="30" height="30"> </a>
+ <a href = "https://www.snapchat.com/add/soorajkumarl"> <img src="https://play-lh.googleusercontent.com/KxeSAjPTKliCErbivNiXrd6cTwfbqUJcbSRPe_IBVK_YmwckfMRS1VIHz-5cgT09yMo" alt="SnapChat" width="35" height="35"> </a>
 </p>
 
  
