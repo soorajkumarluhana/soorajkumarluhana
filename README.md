@@ -1,6 +1,8 @@
 
 <img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1.gif"/><br><br>
 
+📄 Resume [https://drive.google.com/file/d/1Pe2mB3oxZhmsBy-y3kllm4vFhUzKzJtY/view?usp=sharing](https://drive.google.com/file/d/1Pe2mB3oxZhmsBy-y3kllm4vFhUzKzJtY/view?usp=sharing)
+
 
 <h3 align="left">Social Links</h3>
 <p align="left"> 
