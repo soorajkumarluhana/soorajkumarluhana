@@ -9,8 +9,6 @@
 <a href="https://linkedin.com/in/soorajkumarluhana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soorajkumarluhana" height="30" width="40" /></a>
 <a href="https://fb.com/soorajkumarluhana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soorajkumarluhana" height="30" width="40" /></a>
 <a href="https://twitter.com/soorajkluhana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soorajkluhana" height="30" width="40" /></a>
-<a href="https://instagram.com/soorajkumarluhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soorajkumarluhana" height="30" width="40" /></a> 
-<a href = "https://www.snapchat.com/add/soorajkumarl" alt = "soorajkumarl"> <img src="https://assets.materialup.com/uploads/0a167b5f-425d-4b90-adeb-57016ccbcbcd/0x0ss-85.jpg" alt="SnapChat Photo" width="35" height="35"><a> 
 </p>
 
  
